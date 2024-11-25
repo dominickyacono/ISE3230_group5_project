@@ -1,4 +1,4 @@
-﻿address,Neighborhood,Type of property,Landlord,Rent,Water,Electric,Gas,Internet,Laundry,Emergencies,Generals,Safety,Sidewalks,Clean,Garage,Off-Street,Street,Fee,Mendenhall,Caldwell,Pomerene,friend1,friend2,friend3,mindist,limeprime
+﻿address,Neighborhood,Type of property,Landlord,Rent,Water,Electric,Gas,Internet,Laundry,Emergencies,Generals,Safety,Sidewalks,Clean,Garage,Off-Street,Street,Fee,class1,class2,class3,friend1,friend2,friend3,mindist,limeprime
 ,,,,720,25,50,30,20,24,13.68,6.84,13.68,50,47.517,100,0,0,,(distance/.25)(1/20)($51.4),,,5*($11 * ((.025)(x/.1))),5*($18*((.025)(x/.1))),5*($48 * ((.025)(x/.1))),,
 265 E 11th Ave,Weinland Park,House,NorthSteppe ,720,1,1,1,1,1,0.235294118,0.882352941,0.235294118,0.235294118,0.823529412,N,0,Y,45,0.8,1.2,0.9,1.5,1.3,0.7,0.8,1
 149 W 10th Ave #149,Peach District,House,Hometown Management,650,1,1,1,1,0,0.515151515,0.96875,0.484848485,0.375,0.689655172,N,0,Y,45,0.3,0.7,0.4,1.2,0.9,0.7,0.3,0
