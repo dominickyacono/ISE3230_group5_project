@@ -1,14 +1,14 @@
-﻿address,Neighborhood,Type of property,Landlord,Rent,Water,Electric,Gas,Internet,Laundry,Emergencies,Generals,Safety,Sidewalks,Clean,Garage,Off-Street,Street,Fee,class1,class2,class3,friend1,friend2,friend3,mindist,limeprime
-,,,,720,25,50,30,20,24,13.68,6.84,13.68,50,47.517,100,0,0,,(distance/.25)(1/20)($51.4),,,5*($11 * ((.025)(x/.1))),5*($18*((.025)(x/.1))),5*($48 * ((.025)(x/.1))),,
-265 E 11th Ave,Weinland Park,House,NorthSteppe ,720,1,1,1,1,1,0.235294118,0.882352941,0.235294118,0.235294118,0.823529412,N,0,Y,45,0.8,1.2,0.9,1.5,1.3,0.7,0.8,1
-149 W 10th Ave #149,Peach District,House,Hometown Management,650,1,1,1,1,0,0.515151515,0.96875,0.484848485,0.375,0.689655172,N,0,Y,45,0.3,0.7,0.4,1.2,0.9,0.7,0.3,0
-329 W 8th Ave Unit 3,Necko,Apartment,NorthSteppe,949,0,1,1,1,0,0.235294118,0.882352941,0.235294118,0.235294118,0.823529412,N,0,Y,45,0.7,0.8,0.5,1.5,1.2,1,0.5,0
-1297-1299 Pennsylvania Ave,Dennison Place & The Circles,Duplex,NorthSteppe,733.33,0,1,1,1,0,0.235294118,0.882352941,0.235294118,0.235294118,0.823529412,N,0,Y,45,0.9,1.1,0.8,1.8,1.5,1.3,0.8,1
-478 E Tompkins ST,SoHud,House,Pella Co,560,1,1,1,1,0,0.111111111,0.888888889,0.222222222,0.277777778,0.333333333,N,0,Y,0,1.5,1.6,1.8,1.1,1.3,1.3,1.5,1
-113 E Frambes Ave,Indianola Forest,Apartment,Hometeam ,1020,1,1,1,1,1,0.515151515,0.96875,0.484848485,0.375,0.689655172,N,1,N,30,0.6,0.7,0.9,0.6,0.4,0.5,0.6,0
-349 E 13th Ave,Indianola Terrace,Apartment,KRG Rentals,425,1,1,1,1,1,0.333333333,1,0.333333333,0,0,N,0,Y,0,0.8,1.2,1,1.4,1.2,0.6,0.8,1
-305 E 20th Ave,Iuka Ravine,Townhouse,NorthSteppe,625,1,1,1,1,0,0.235294118,0.882352941,0.235294118,0.235294118,0.823529412,N,1,Y,45,0.8,0.9,1.1,0.9,0.7,0.5,0.8,1
-72 Bucks Alley,Northwood Park,House,Buckeye Real Estate,790,1,1,1,1,0,0.218181818,0.87037037,0.111111111,0.12962963,0.218181818,N,0,Y,45,1,0.8,1.2,0.4,0.6,1.1,0.8,1
-63 W Northwood Ave,Tuttle Park,House,Buckeye Real Estate,1030,1,1,1,1,1,0.218181818,0.87037037,0.111111111,0.12962963,0.218181818,N,0,Y,45,0.7,0.6,1,0.2,0.2,0.8,0.6,0
-165 E Northwood Ave,Old North,House,Buckeye Real Estate,725,1,1,1,1,0,0.218181818,0.87037037,0.111111111,0.12962963,0.218181818,N,0,Y,45,0.9,0.9,1.2,0.4,0.5,0.8,0.9,1
-2617 N 4th St.,Glen Echo,House,(OTHER),478.33,1,1,1,1,0,0.286821705,0.854545455,0.245454545,0.279279279,0.261261261,N,0,Y,0,1.7,1.8,2,1.3,1.5,1.5,1.7,1
+﻿Property ,Neighborhood,Type of property,Landlord,Rent,Water,Electric,Gas,Internet,Laundry,Emergencies,Generals,Safety,Sidewalks,Clean,Garage,Off-Street,Street,Fee,class1,class2,class3,friend1,friend2,friend3
+,,,,720,25,50,30,20,24,13.68,6.84,13.68,50,47.517,100,0,0,,"(distance/.25)(1/20)($51.4)",,,5*($11 * ((.025)(x/.1))),5*($18*((.025)(x/.1))),5*($48 * ((.025)(x/.1)))
+265 E 11th Ave,Weinland Park,House,NorthSteppe ,720,1,1,1,1,1,0.235294118,0.882352941,0.235294118,0.235294118,0.823529412,N,0,Y,45,0.8,1.2,0.9,1.5,1.3,0.7
+149 W 10th Ave #149,Peach District,House,Hometown Management,650,1,1,1,1,0,0.515151515,0.96875,0.484848485,0.375,0.689655172,N,0,Y,45,0.3,0.7,0.4,1.2,0.9,0.7
+329 W 8th Ave Unit 3,Necko,Apartment,NorthSteppe,949,0,1,1,1,0,0.235294118,0.882352941,0.235294118,0.235294118,0.823529412,N,0,Y,45,0.7,0.8,0.5,1.5,1.2,1
+1297-1299 Pennsylvania Ave,Dennison Place & The Circles,Duplex,NorthSteppe,733.33,0,1,1,1,0,0.235294118,0.882352941,0.235294118,0.235294118,0.823529412,N,0,Y,45,0.9,1.1,0.8,1.8,1.5,1.3
+478 E Tompkins ST,SoHud,House,Pella Co,560,1,1,1,1,0,0.111111111,0.888888889,0.222222222,0.277777778,0.333333333,N,0,Y,0,1.5,1.6,1.8,1.1,1.3,1.3
+113 E Frambes Ave,Indianola Forest,Apartment,Hometeam ,1020,1,1,1,1,1,0.515151515,0.96875,0.484848485,0.375,0.689655172,N,1,N,30,0.6,0.7,0.9,0.6,0.4,0.5
+349 E 13th Ave,Indianola Terrace,Apartment,KRG Rentals,425,1,1,1,1,1,0.333333333,1,0.333333333,0,0,N,0,Y,0,0.8,1.2,1,1.4,1.2,0.6
+305 E 20th Ave,Iuka Ravine,Townhouse,NorthSteppe,625,1,1,1,1,0,0.235294118,0.882352941,0.235294118,0.235294118,0.823529412,N,1,Y,45,0.8,0.9,1.1,0.9,0.7,0.5
+72 Bucks Alley,Northwood Park,House,Buckeye Real Estate,790,1,1,1,1,0,0.218181818,0.87037037,0.111111111,0.12962963,0.218181818,N,0,Y,45,1.0,0.8,1.2,0.4,0.6,1.1
+63 W Northwood Ave,Tuttle Park,House,Buckeye Real Estate,1030,1,1,1,1,1,0.218181818,0.87037037,0.111111111,0.12962963,0.218181818,N,0,Y,45,0.7,0.6,1,0.2,0.2,0.8
+165 E Northwood Ave,Old North,House,Buckeye Real Estate,725,1,1,1,1,0,0.218181818,0.87037037,0.111111111,0.12962963,0.218181818,N,0,Y,45,0.9,0.9,1.2,0.4,0.5,0.8
+2617 N 4th St.,Glen Echo,House,(OTHER),478.33,1,1,1,1,0,0.286821705,0.854545455,0.245454545,0.279279279,0.261261261,N,0,Y,0,1.7,1.8,2,1.3,1.5,1.5
